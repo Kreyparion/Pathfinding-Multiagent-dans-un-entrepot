@@ -44,4 +44,4 @@ Ce principe marche avec du marquage au sol du prochain déplacement, selon les n
 
 -> Optimise même quand les étagères sont fixées.
 
-[Rendu](robot_demo.gif)
+![Rendu](./robot_demo.gif)
