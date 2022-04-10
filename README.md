@@ -43,3 +43,5 @@ Les robots prennent maintenant en compte les déplacement des autres robots et p
 Ce principe marche avec du marquage au sol du prochain déplacement, selon les notations de "tableau_entrepot.md". L'algo de plus court chemin prend donc ces marquages en compte.
 
 -> Optimise même quand les étagères sont fixées.
+
+[Rendu](robot_demo.gif)
